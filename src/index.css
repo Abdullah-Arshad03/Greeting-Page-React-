@@ -1,0 +1,22 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background-color: rgba(0, 204, 255, 0.804);
+  display: flex;
+  justify-content: center;
+}
+.content
+{
+  height: 92px;
+  padding-top: 17px;
+ border-radius: 17px;
+  text-align: center;
+  margin-top: 255px;
+  background-color: aliceblue;
+  width: 532px;
+}
+
+
+
